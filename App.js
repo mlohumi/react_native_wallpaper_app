@@ -5,8 +5,7 @@ export default class App extends Component {
   render() {
     return (
 
-    //  <Navigator/>
-    <Home/>
+     <Navigator/>
     );
   }
 }
